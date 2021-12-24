@@ -39,8 +39,7 @@ else{
     // Printing output to given location
     print_sanctioned_loan_ids(selected_loan_ids,output_file);
   } catch (err) {
-    // console.log('Entered file location is not found.');
-    console.log(err);
+    console.log('Entered file location is not found.');
   }
   
 }
