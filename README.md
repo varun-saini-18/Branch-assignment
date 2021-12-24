@@ -52,8 +52,20 @@ The program will take 4 args from the command line:
 
 ### Demo
 
+If arguments are appropriate
+
 <img width="667" alt="Screenshot 2021-12-25 at 12 11 17 AM" src="https://user-images.githubusercontent.com/54900875/147369125-f4d763c4-a45f-40d2-952a-f444f1b8c775.png">
 
+If input file location is incorrect
+
+
+<img width="703" alt="Screenshot 2021-12-25 at 12 14 18 AM" src="https://user-images.githubusercontent.com/54900875/147369190-2a3f6dee-5f75-4ef5-9f9c-6e4fc084092c.png">
+
+
+If number of arguments provided are less than required
+
+
+<img width="662" alt="Screenshot 2021-12-25 at 12 15 29 AM" src="https://user-images.githubusercontent.com/54900875/147369220-e0c266dd-cbe8-4e2e-89eb-29664ccb2eab.png">
 
 
 
