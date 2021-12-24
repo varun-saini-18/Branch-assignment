@@ -8,7 +8,7 @@
     <img src="https://www.mpug.com/wp-content/uploads/2020/03/new-project-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Branch Take Home Assignment</h3>
+  <h3 align="center">Magical Loan Provider</h3>
 
   
   </p>
