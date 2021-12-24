@@ -1,0 +1,5 @@
+[
+  {"application_id": 1, "customer_id": 4558, "principal": 5000, "fee": 1000, "disbursement_date": "2020-04-30","repayments": [{"date": "2020-05-07", "amount": 1500.0}, {"date": "2020-05-14", "amount": 1500.0}, {"date": "2020-05-21", "amount": 1500.0}, {"date": "2020-05-28", "amount": 1500.0}]},
+  {"application_id": 2, "customer_id": 4558, "principal": 2000, "fee": 300, "disbursement_date": "2020-06-01", "repayments": [{"date": "2020-06-19", "amount": 575.0}, {"date": "2020-06-26", "amount": 575.0}, {"date": "2020-07-02", "amount": 575.0}, {"date": "2020-07-09", "amount": 575.0}]},
+  {"application_id": 3, "customer_id": 4558, "principal": 2000, "fee": 300, "disbursement_date": "2020-06-01", "repayments": [{"date": "2020-06-19", "amount": 575.0}, {"date": "2020-06-26", "amount": 575.0}, {"date": "2020-07-02", "amount": 575.0}, {"date": "2020-07-09", "amount": 575.0}]}
+]
