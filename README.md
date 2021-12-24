@@ -50,6 +50,10 @@ The program will take 4 args from the command line:
         <li>Arg2: Arg4: Max concurrent loans that can be preprocessed.</li>
 </ul>
 
+### Demo
+
+<img width="667" alt="Screenshot 2021-12-25 at 12 11 17 AM" src="https://user-images.githubusercontent.com/54900875/147369125-f4d763c4-a45f-40d2-952a-f444f1b8c775.png">
+
 
 
 
