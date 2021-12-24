@@ -76,30 +76,16 @@ Follow the procedure below
 ### Prerequisites
 
 1. Install nodeJs
-2. Cd into branch directory
+2. Cd to branch directory
 3. Enter args : node app.js arg1 arg2 arg3 arg4
 4. Hit Enter!
 
 
 ### Installation
 
-1. Clone the repo
+Clone the repo
    ```sh
-   git clone https://github.com/varun-saini-18/bug-tracker.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   
-   ```
-   
-3. Open first terminal and run command
-```JS
-  node app.js
-   ```
-4. Open second terminal and run command
-   ```JS
-   python login.py
+   git clone https://github.com/varun-saini-18/Branch-assignment.git
    ```
 
 
