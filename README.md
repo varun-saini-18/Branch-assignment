@@ -76,8 +76,9 @@ Follow the procedure below
 ### Prerequisites
 
 1. Install nodeJs
-2. Install npm on local device
-3. Install python
+2. Cd into branch directory
+3. Enter args : node app.js arg1 arg2 arg3 arg4
+4. Hit Enter!
 
 
 ### Installation
