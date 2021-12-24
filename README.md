@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+Working currently on Readme
 
 <!-- PROJECT LOGO -->
 <br />
@@ -44,10 +44,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot1]
-The project focuses on different algorithms that generates mazes.
+The program will take 4 args from the command line:
+Arg1: Input File Location
+Arg2: Output File Location
+Arg3: Initial inhand amount with bank
+Arg4: Max concurrent loans that can be preprocessed.
 
 Functionalities:
 * User can create bug
