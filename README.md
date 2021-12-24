@@ -1,6 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Working currently on Readme
 
 <!-- PROJECT LOGO -->
 <br />
