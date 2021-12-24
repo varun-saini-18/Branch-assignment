@@ -45,23 +45,25 @@ Working currently on Readme
 ## About The Project
 
 The program will take 4 args from the command line:
-Arg1: Input File Location
-Arg2: Output File Location
-Arg3: Initial inhand amount with bank
-Arg4: Max concurrent loans that can be preprocessed.
+<ul>
+        <li>Arg1: Input File Location</li>
+        <li>Arg2: Output File Location</li>
+        <li>Arg1: Arg3: Initial inhand amount with bank</li>
+        <li>Arg2: Arg4: Max concurrent loans that can be preprocessed.</li>
+</ul>
+
+
+
+
 
 Functionalities:
-* User can create bug
-* User can update bug status
-* User can pick bugs from pool of open bugs
+* Program will throw appropriate error if there is any
+* Otherwise will give a list of applications that need to be sanctioned for loans
 
-Tkinter is used in project to build Desktop application!
 ### Built With
  [NodeJs]    
  [Javascript]  
- [Tkinter]    
- [Python]   
- [Heroku]  
+ [BrainStorming]
 
 
 
