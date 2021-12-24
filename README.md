@@ -9,13 +9,9 @@
     <img src="https://www.mpug.com/wp-content/uploads/2020/03/new-project-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Bug tracking desktop application</h3>
+  <h3 align="center">Branch Take Home Assignment</h3>
 
-  <p align="center">
-    A project that focuses upon real life problem of tracking bug 
-  <p  align="center">
-    <a href="https://1drv.ms/u/s!Ar_vfbHCB9exc2gL-vC3tKlqaXo?e=QzYVfC/"><strong>Download the app »</strong></a>
- <p/>
+  
   </p>
 </p>
 
